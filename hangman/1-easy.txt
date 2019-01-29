@@ -1,0 +1,5 @@
+Say Hi in the morning,Good morning
+Say Hi in the afternoon,Good afternoon
+Say Hi in the evening (JAPAN),kombanwa
+Special day for everyone,New year
+Idal Thailand,BNK48
