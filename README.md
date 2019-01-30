@@ -1,7 +1,8 @@
 # Internship-2019-project
 
 ## hangman
-- code in bash script format
+
+code in bash script format
 
 **Rule**
   - Can predict each word 
@@ -54,3 +55,32 @@ The max score for each round is 100 scores.
   - Can't predict, get 10 mistakes
 
 ## weather
+
+Include with 2 choices
+
+1. Using python library [from xmljson](https://pypi.org/project/xmljson/)
+
+
+  **Require preparation**
+
+```
+pip install xmljson
+```
+
+python version 2.7.15
+
+  **How used?**
+
+
+```
+#python -m <file format> -d  <from file input format> <inputfile> -o <outputfile>
+python -m xmljson -d xmldata ./weather.xml -o weather.json
+```
+
+2. Code by python
+
+  **Require preparation**
+
+  **How used?**
+
+
