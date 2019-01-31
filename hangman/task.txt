@@ -1,3 +1,0 @@
-case-insensitive A<-->a
-Put many word can be useful
-
