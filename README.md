@@ -49,6 +49,8 @@ If you turn right word or char, score will up belong with number of char that yo
 
 The max score for each round is 100 scores.
 
+You can fix name of choices on selection.txt file.
+
 **Each round can end with 3 choices,**
   - ^C : exit this program 
   - Can predict all word, get 100 scores
@@ -80,7 +82,17 @@ python -m xmljson -d xmldata ./weather.xml -o weather.json
 2. Code by python
 
   **Require preparation**
+  
+  no
 
   **How used?**
+  
+  ```
+  python xml2json.py weather.xml
+  ```
+  
+  **Output**
+  
+  weather.json + show output on screen
 
 
